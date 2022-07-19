@@ -70,15 +70,64 @@
 # print(c)
 
 # a, b, c = c, a, b
-# print(a, b, c)
-from math import pi
+# # print(a, b, c)
+# from math import pi
 
-r = int(input('Введите радиус: '))
-result_P = 2 * r * pi 
-result_S = pi * (r ** 2)
-print('Площадь окружности', round(result_S, 2))
-print('Площадь окружности', round(result_P, 2))
+# r = int(input('Введите радиус: '))
+# result_P = 2 * r * pi 
+# result_S = pi * (r ** 2)
+# print('Площадь окружности', round(result_S, 2))
+# print('Площадь окружности', round(result_P, 2))
 
+# num = 6
+# num = 'string'
+# print(num)
+# print(type(num))
+
+# from turtle import st
+
+
+# str1 = 'Hello world!'
+# num = 5
+# print(str1 * num)
+
+# num = 5
+# str1 = 'John Snow'
+# print(str1 + str(num))
+
+# var = input('Введите :')
+# print(var)
+# print(type(var))
+
+
+
+# num1 = int(input('Введите число: '))
+# num2 = int(input('Введите степень: '))
+# print(num1 ** num2)
+# print(pow(num1, num2))
+
+
+# import random
+#Генерация рандомного пароля 
+
+# from random import randint
+
+# name = input('Введите имя: ')
+# last_name = input('Введите фамилию: ')
+# a = str(randint(111111, 999999))
+# # print(a)
+# a = set(a)             
+# a = ''.join(a)
+# # print(a)
+# result = name + last_name + str(a)
+# print(result) 
+
+
+# a = 1
+# b = 2
+# print(id(a))
+# print(id(b))
+# print(id(1))
 
 
 
