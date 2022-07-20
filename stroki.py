@@ -78,7 +78,7 @@ Hellow world
 # print(f'Hello {a} {last_name} {name}. Welcome to the parthy!' )            # в начале всего ставляем f и в внутри ковычек пишем весь текст, форматируем текст 
 
 
-print(dir(str))
+# print(dir(str))
 
 
 
